@@ -1,10 +1,10 @@
 html {
     box-sizing: border-box;
-}
-
-*, *::before, *::after {
+  }
+  *, *::before, *::after {
     box-sizing: inherit;
-}
+  }
+  
 
 * {
     margin-left: 25px;
@@ -42,9 +42,4 @@ img {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: cornflowerblue;
     width: 40%;
-}
-
-.description {
-    background-color: green;
-    padding: 10px;
 }
